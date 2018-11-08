@@ -1,5 +1,5 @@
 Hello Java and Git
-==================
+===================
 
 requirements:
 - block card
@@ -10,6 +10,6 @@ requirements:
 - repay debt
 
 technical requirements
-=====================
+======================
 - java >= 8
 - maven 3
